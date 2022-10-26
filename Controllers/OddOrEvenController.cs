@@ -2,7 +2,7 @@
 //10-26-2022
 //ODD OR EVEN - ENDPOINTS
 //THIS PRGRAM CONTAINS A CONTROLLER 'OddOrEvenController' AND ALLOWS THE user to input a number via the url and have it returned a negative or postive value,  also has data valiation
-//PEER REVIEW BY : 
+//PEER REVIEW BY : Jasmine Leek - code works great! I tested for odds, evens and negatives and they ran without any errors. good work!
 
 
 
