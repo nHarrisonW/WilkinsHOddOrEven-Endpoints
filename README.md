@@ -21,7 +21,7 @@ Once this link is presented , copy onto your clipboard using Ctrl(command on Mac
 After you paste the URL you must follow it with a route or the controller will not work , these routes include "/OddOrEven" & "/evaluate" as well as a number of your choice , below i will show you how to use these routes, follow close , they are case sensitive! 
 I will be using the URL "https://localhost:1234" as my "mock" URL
 
-In order to reach a response from the program , type "/GeaterOrLess/evaluate/1/2" directly behind your URL and press "ENTER" on your keyboard or "SEND" on your Postman Desktop App , it should look something like this : https://localhost:1234/OddOrEven/evaluate/1
+In order to reach a response from the program , type "/OddOrEven/evaluate/1" directly behind your URL and press "ENTER" on your keyboard or "SEND" on your Postman Desktop App , it should look something like this : https://localhost:1234/OddOrEven/evaluate/1
 This would output : 1 is an odd number!
 
 If your URL doesn't look like one of these options , check to make sure your routes in the URL match , URL's ARE CASE SENSITIVE!
